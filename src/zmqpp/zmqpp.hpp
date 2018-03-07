@@ -49,12 +49,12 @@
  * \def ZMQPP_VERSION_MINOR
  * zmqpp minor version number
  */
-#define	ZMQPP_VERSION_MINOR 1
+#define	ZMQPP_VERSION_MINOR 2
 /**
  * \def ZMQPP_VERSION_REVISION
  * zmqpp version revision number
  */
-#define	ZMQPP_VERSION_REVISION 1
+#define	ZMQPP_VERSION_REVISION 10
 
 #include <zmq.h>
 
